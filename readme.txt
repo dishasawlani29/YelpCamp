@@ -1,0 +1,1 @@
+run command "node index" to start application and go to localhost:5000 to access the webpage
